@@ -52,14 +52,3 @@ Este projeto é um site simples e responsivo para apresentação de chalés e ca
 
 ---
 
-## Contato
-
-Para dúvidas ou sugestões, entre em contato:
-
-- Email: refugiodasfolhas@gmail.com
-- Telefone: +55 (47) 3370-6753
-- Endereço: Estrada do Cipreste, 195
-
----
-
-© 2025 Refúgio das Folhas - Todos os direitos reservados.
